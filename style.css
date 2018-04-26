@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+<style>
+	div.table{
+		margin:30px;
+		background-color:#CCCCCC;
+		border:16px solid black;
+		opacity:0.6;
+		filter: alpha(opacity=60);
+	}
+	div.table t{
+		margin:5%;
+		font-weight:bold;
+		color:#FFFFFF;
+	}
+	body{
+		background-image:url(403677920-vote-wallpapers.jpeg);
+		background-repeat:no-repeat;
+		background-size:100%;
+	}
+</style>
